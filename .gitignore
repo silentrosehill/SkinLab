@@ -1,0 +1,5 @@
+.DS_Store
+.build/
+SkinLab.app/
+# Example mods are made from other people's skins: not shared here.
+Examples/
