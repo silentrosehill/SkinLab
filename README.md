@@ -1,5 +1,8 @@
 # SkinLab
 
+me otp camille blabla doing this for 100dollar claude credit lmao but ye its cool software
+
+
 Make your own League of Legends custom skins on macOS, saved as `.fantome` files for Zushi.
 
 Stage 1 (this version):
